@@ -58,15 +58,15 @@ Crear un `virtualenv` en Linux y OS X es tan simple como ejecutar `python3 -m ve
 
 Este comando anterior creará un directorio llamado `myvenv` (o cualquier nombre que hayas escogido) que contiene nuestro entorno virtual (básicamente un montón de archivos y carpetas). Todo lo que queremos hacer ahora es iniciarlo ejecutando:
 
+en Windows, o:
+
     C:\Users\Name\djangogirls> myvenv\Scripts\activate
     
-
-en Windows, o:
+en OS X y Linux: 
 
     ~/djangogirls$ source myvenv/bin/activate
     
 
-en OS X y Linux.
 
 ¡Recuerda reemplazar `myvenv` con tu nombre de `virtualenv` que hayas elegido!
 
